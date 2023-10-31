@@ -80,7 +80,7 @@ const App = () => {
 		</div>
 	);
 
-	// Testing
+
 };
 
 export default App;
